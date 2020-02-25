@@ -2,6 +2,7 @@
     "name": "shubhwebkul/bagisto-fake",
     "description": "Bagisto Laravel ECommerce",
     "license": "MIT",
+    "version": "1.0",
     "type": "project",
     "require": {
         "php": "^7.2.0",
